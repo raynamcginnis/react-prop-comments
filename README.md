@@ -1,6 +1,18 @@
-# Getting Started with Create React App
+# Overview
+This application pulls in an avatar, name, time and comment to create a comment log using React.js props. The avatar is automatically pulled using the faker.js API. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Technologies Used
+React.js
+CSS
+Semantic UI
+Faker.js
+
+
+# Getting Started
+
+1. Clone this repo using 'git clone https://github.com/raynamcginnis/react-prop-comments.git'
+2. Run the app in your local environment by using 'npm start'
+
 
 ## Available Scripts
 
