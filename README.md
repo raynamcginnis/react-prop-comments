@@ -4,10 +4,11 @@ This application pulls in an avatar, name, time and comment to create a comment 
 ![React Props Comment Card](https://github.com/raynamcginnis/react-prop-comments/blob/main/src/example.png)
 
 # Technologies Used
-React.js
-CSS
-Semantic UI
-Faker.js
+- React.js
+- HTML
+- CSS
+- Semantic UI
+- Faker.js
 
 
 # Getting Started
