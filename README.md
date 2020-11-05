@@ -1,6 +1,8 @@
 # Overview
 This application pulls in an avatar, name, time and comment to create a comment log using React.js props. The avatar is automatically pulled using the faker.js API. 
 
+![React Props Comment Card](http:s//github.com/raynamcginnis/react-prop-comments/src/example.png)
+
 # Technologies Used
 React.js
 CSS
